@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![logo](https://pbs.twimg.com/profile_banners/238885377/1592496748/1500x500)
+
+I'm Cedric, a freelance software engineer, based in Paris France.
+
+Since 2013, I help founders provide value to customers through technology. I love open-source, startups and real-world challenges.
+
 <!--
 **cvng/cvng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

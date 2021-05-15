@@ -1,5 +1,3 @@
-![banner](https://pbs.twimg.com/profile_banners/238885377/1592496748/1500x500)
-
 ### Hi there 👋
 
 I'm Cedric, a freelance software engineer, based in Paris France.
